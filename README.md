@@ -21,9 +21,12 @@ Under directory "T/"
 
 Under directory "T/"
 
-(1)style_factor_return.csv : 每日的风格因子收益率 \\
-(2)industry_factor_return.csv : 每日的行业收益率 \\
-(3)residual_return.csv : 每只股票的残差收益率 \\
-(4)return_decomposition.csv : T期实际收益分解的结果，第1期未给出投资权重，不计算 \\
+(1)style_factor_return.csv : 每日的风格因子收益率
+
+(2)industry_factor_return.csv : 每日的行业收益率
+
+(3)residual_return.csv : 每只股票的残差收益率
+
+(4)return_decomposition.csv : T期实际收益分解的结果，第1期未给出投资权重，不计算
 
 详细计算方法及实验报告请参看“Barra模型模拟计算报告.pdf”文件
